@@ -86,7 +86,9 @@ cloudinary credentials:
 ## Related Project
 
 ⚡[Mamarecipe Front End](https://github.com/anditorp/mamarecipe-fe)
+
 ⚡[Mamarecipe Demo Front End](https://mamarecipe-fe.vercel.app/)
+
 ⚡[Mamarecipe Demo Back End](https://pijar-mama-recipe.vercel.app/)
 
 ## Contact:
