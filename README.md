@@ -91,7 +91,7 @@ cloudinary credentials:
 
 ⚡[Mamarecipe Demo Back End](https://pijar-mama-recipe.vercel.app/)
 
-## Contact:
+## Contact
 
 <a href="mailto:muhamadandito78@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 15px; height: 15px;"> : muhamadandito78@gmail.com
@@ -105,3 +105,7 @@ cloudinary credentials:
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 15px; height: 15px;"> : https://github.com/anditorp/
 </a>
 <br>
+
+## License 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
